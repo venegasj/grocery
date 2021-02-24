@@ -1,5 +1,21 @@
 ## Welcome to GitHub Pages
 [Create a Profile](CreateProfile.html)
+[Shop Groceries](Shop-Groceries.html)
+[Access Past Orders](Access-Past-Orders.html)
+[Verify Age](Verify-Age.html)
+[Checkout](Checkout.html)
+[Make Complaints](Make-Complain.html)
+[Schedule Orders](Schedule-Orders.html)
+[Ask for Help](Ask-for-Help.html)
+[Return Items](Return-Items.html)
+[Check Prices](Check-Prices.html)
+[Exchange Items](Exchange-Items.html)
+[Track Location](Track-Location.html)
+[Contact Driver](Contact.html)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/venegasj/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
