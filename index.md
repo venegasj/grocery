@@ -4,7 +4,7 @@
 [Access Past Orders](Access-Past-Orders.html)
 [Verify Age](Verify-Age.html)
 [Checkout](Checkout.html)
-[Make Complaints](Make-Complain.html)
+[Make Complaints](Make-Complaint.html)
 [Schedule Orders](Schedule-Orders.html)
 [Ask for Help](Ask-for-Help.html)
 [Return Items](Return-Items.html)
