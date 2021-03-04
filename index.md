@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 [Create a Profile](CreateProfile.html)
 
+[Login](Login.html)
+
 [Shop Groceries](Shop-Groceries.html)
 
 [Access Past Orders](Access-Past-Orders.html)
